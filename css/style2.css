@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  font-weight: 800;
+}
+
+/* header */
+header{
+  background-color: #4EA0FF;
+  height: 170px;
+  background-image: url(../../img/pattern.png);
+}
+
+#logo {
+  height: 50px;
+  margin-top: 110px;
+  margin-left: 25px;
+}
+
+/* main  */
+main, footer {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+p,main,ul,#completetable,footer,#graph{
+  margin-top: 20px;
+}
+
+.grey {
+  color: gray;
+  margin-bottom: 5px;
+  font-size: 0.8rem;
+}
+
+.caption {
+  font-size: 0.6rem;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.table,.tableup,.tableright {
+  display: inline-block;
+  width: 30%;
+  padding: 5px;
+}
+
+.bluchiaro{
+  background-color: #b1e5f2;
+}
+
+.table{
+  line-height: 120px;
+}
+
+/* comandi singoli */
+ul{
+  margin-left: -25px;
+}
+
+#blue {
+  color: #4EA0FF;
+}
+
+#bluscuro{
+  background-color: #23A9E5;
+}
+
+#monitor{
+  background-image: url(../../img/monitor.jpg);
+  height: 200px;
+  width: 300px;
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#graph{
+  background-image: url(../../img/graph.jpg);
+  height: 200px;
+  width: 300px;
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+}

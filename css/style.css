@@ -20,7 +20,6 @@ header{
 
 main {
   margin-left: 25px;
-  margin-top: 20px;
 }
 
 .grey {
@@ -39,4 +38,12 @@ main {
 
 .highlight {
   background-color: yellow;
+}
+
+p,main,ul{
+  margin-top: 20px;
+}
+
+ul{
+  margin-left: -25px;
 }

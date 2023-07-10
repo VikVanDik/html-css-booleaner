@@ -1,7 +1,9 @@
 *{
   margin: 0;
+  font-weight: 800;
 }
 
+/* header */
 header{
   background-color: #4EA0FF;
   height: 170px;
@@ -12,4 +14,29 @@ header{
   height: 50px;
   margin-top: 110px;
   margin-left: 25px;
+}
+
+/* main */
+
+main {
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.grey {
+  color: gray;
+  margin-bottom: 5px;
+  font-size: 0.8rem;
+}
+
+#blue {
+  color: #4EA0FF;
+}
+
+.caption {
+  font-size: 0.6rem;
+}
+
+.highlight {
+  background-color: yellow;
 }

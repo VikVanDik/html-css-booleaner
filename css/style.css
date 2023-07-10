@@ -40,10 +40,28 @@ main {
   background-color: yellow;
 }
 
-p,main,ul{
+p,main,ul,table{
   margin-top: 20px;
 }
 
 ul{
   margin-left: -25px;
+}
+
+.table,.tableup,.tableright {
+  display: inline-block;
+  width: 30%;
+  padding: 5px;
+}
+
+#bluscuro{
+  background-color: #23A9E5;
+}
+
+.bluchiaro{
+  background-color: #b1e5f2;
+}
+
+.table{
+  line-height: 80px;
 }

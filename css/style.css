@@ -7,7 +7,7 @@
 header{
   background-color: #4EA0FF;
   height: 170px;
-  background-image: url(../../img/pattern.png);
+  background-image: url(../img/pattern.png);
 }
 
 #logo {
@@ -67,7 +67,7 @@ ul{
 }
 
 #monitor{
-  background-image: url(../../img/monitor.jpg);
+  background-image: url(../img/monitor.jpg);
   height: 200px;
   width: 300px;
   color: white;
@@ -76,7 +76,7 @@ ul{
 }
 
 #graph{
-  background-image: url(../../img/graph.jpg);
+  background-image: url(../img/graph.jpg);
   height: 200px;
   width: 300px;
   color: white;
